@@ -2,15 +2,17 @@
 
 Hey there 👋 
 
-As you have entered this arena, you have finally decided to make better design decisions to optimize your game and improve your code structure. 
+Welcome to the world of Scriptable Objects. 
 
-This course will help you accomplish all of this with the introduction of State Machine Behaviour Pattern
+Pay 100% of your focus while learning this concept as it will help you in achieving wonders while building your games.
+
 
 ![Introduction](https://media.giphy.com/media/z9FwUoGNksJEDBJnIF/giphy.gif)
 
 ## **Scriptable Objects?**
 
-Scriptable objects In this lesson I am going to teach you the concept of a "scriptable" object. and how to use it in our project. Those objects are like "assets", just like images or music. The difference is that you import these into our project and the "scriptable" objects you create yourself through code. I'm going to show you how to use them and the possibilities they offer us. Before continuing, I want to tell you that it is a complex concept. Even me, who works on this, I had a hard time understanding it. You have the possibility to repeat the lesson as much as you want.
+Scriptable objects are those objects are like "assets", just like images or music. The difference is that you import these into our project and the "scriptable" objects you create yourself through code. I'm going to show you how to use them and the possibilities they offer us. 
+
 
 ## Earn Learning points to get more rewards 🎁
 
