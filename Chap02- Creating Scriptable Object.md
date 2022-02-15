@@ -12,7 +12,7 @@ Let's understand the syntax of the scriptable object,
 
 ![](Images/Chap2-1.png)
 
-**To create a ScriptableObject**,
+**In order to create a ScriptableObject**,
 
 1. Create a script in your application’s Assets folder
 2. Make it inherit from the scriptable object class
