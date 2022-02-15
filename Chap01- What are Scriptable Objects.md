@@ -8,7 +8,7 @@ You can learn more in our Scriptable objects course.
 
 kjbvjdbljnvklaslc
 
-![Scriptable Objects](Images/Chap1-2.png)
+![Scriptable Objects](Images/Chap1a.png)
 
                        Example of Scriptable Objects created in Unity
 
