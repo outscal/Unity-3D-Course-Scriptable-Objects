@@ -1,4 +1,4 @@
-## Advantages of Scriptable Objects
+# Advantages of Scriptable Objects
 
 1. Easier to Debug
 2. Low Memory Consumption
