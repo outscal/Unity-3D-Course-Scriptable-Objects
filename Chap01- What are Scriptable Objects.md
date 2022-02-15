@@ -12,4 +12,4 @@ Below is the example of Scriptable Objects created in Unity
 ![Scriptable Objects](Images/Chap1.png)
 
 
-Now we have learned all the necessary concepts required to make the achievement system. Let's see how we can make an achievement system.
+Now we will move ahead and see in the next chapter how we can create Scriptable Objects.
