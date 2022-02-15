@@ -6,7 +6,9 @@ You can learn more in our Scriptable objects course.
 
 ![Scriptable Objects Flow Chart](Images/Chap1-1.png)
 
-![Scriptable Objects Unity Snippet](Images/Chap1-2.png)
+kjbvjdbljnvklaslc
+
+![Scriptable Objects](Images/Chap1-2.png)
 
                        Example of Scriptable Objects created in Unity
 
