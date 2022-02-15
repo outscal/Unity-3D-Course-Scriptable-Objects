@@ -4,7 +4,7 @@ A ScriptableObject is a data container that you can use to save large amounts of
 
 You can learn more in our Scriptable objects course.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc9a4d17-a044-43ac-b786-a44311bc7007/Untitled.png)
+![Scriptable Objects Flow Chart](Images/Chap1-1.png)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db5e3271-89b6-4df2-9960-dbff218bff32/Untitled.png)
 
