@@ -6,10 +6,10 @@ You can learn more in our Scriptable objects course.
 
 ![Scriptable Objects Flow Chart](Images/Chap1-1.png)
 
-kjbvjdbljnvklaslc
+Below is the example of Scriptable Objects created in Unity
 
-![Scriptable Objects](Images/Chap1a.png)
 
-                       Example of Scriptable Objects created in Unity
+![Scriptable Objects](Images/Chap1.png)
+
 
 Now we have learned all the necessary concepts required to make the achievement system. Let's see how we can make an achievement system.
