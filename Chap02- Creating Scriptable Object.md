@@ -20,6 +20,6 @@ Let's understand the syntax of the scriptable object,
 
 For example:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f38fb52-de13-4f06-a617-e39744dc003a/Untitled.png)
+![](Images/Chap2-2.png)
 
  With the above script in your Assets folder, you can create an instance of your ScriptableObject by navigating to Assets > Create > Inventory > List in Unity.
