@@ -10,7 +10,18 @@ Let's understand the syntax of the scriptable object,
 - **menuName** - The display name for this type is shown in the Assets/Create menu.
 - **order** - The position of the menu item within the Assets/Create menu.
 
-![](Images/Chap2-1.png)
+```C#
+using UnityEngine;
+using System.Collections;
+
+[CreateAssetMenu(fileName = "Data", menuName = "Inventory/List", order = 1)]
+public class MyScriptableObjectClass : ScriptableObject {
+	public string objectName = "New MyScriptableObject";
+	public bool colorIsRandom = false;
+	public Color thisColor = Color.white;
+	public Vector3[] spawnPoints;
+}	
+```
 
 **In order to create a ScriptableObject**,
 
